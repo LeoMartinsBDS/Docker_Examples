@@ -1,0 +1,13 @@
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\Docker\appconta\appconta\bin\Release\netcoreapp3.1\appconta.exe
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\Docker\appconta\appconta\bin\Release\netcoreapp3.1\appconta.deps.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\Docker\appconta\appconta\bin\Release\netcoreapp3.1\appconta.runtimeconfig.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\Docker\appconta\appconta\bin\Release\netcoreapp3.1\appconta.runtimeconfig.dev.json
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\Docker\appconta\appconta\bin\Release\netcoreapp3.1\appconta.dll
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\Docker\appconta\appconta\bin\Release\netcoreapp3.1\appconta.pdb
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\Docker\appconta\appconta\obj\Release\netcoreapp3.1\appconta.csprojAssemblyReference.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\Docker\appconta\appconta\obj\Release\netcoreapp3.1\appconta.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\Docker\appconta\appconta\obj\Release\netcoreapp3.1\appconta.AssemblyInfo.cs
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\Docker\appconta\appconta\obj\Release\netcoreapp3.1\appconta.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\Docker\appconta\appconta\obj\Release\netcoreapp3.1\appconta.dll
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\Docker\appconta\appconta\obj\Release\netcoreapp3.1\appconta.pdb
+C:\Users\Leonardo\Desktop\Documentos\Leonardo\CURSOS\Docker\appconta\appconta\obj\Release\netcoreapp3.1\appconta.genruntimeconfig.cache
